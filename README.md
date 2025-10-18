@@ -80,4 +80,4 @@ sudo nano /var/www/html/index.html
 
 ![Web Page](./pix2.png)
 
-#### You have successfully deployed a static site in Azure.
+#### You have successfully deployed a static site in Azure!
